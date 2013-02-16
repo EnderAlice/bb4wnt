@@ -1,0 +1,16 @@
+# 生成されるバイナリ
+*.exe
+*.manifest
+*.exp
+*.pdb
+*.res
+*.obj
+*.lib
+
+/bbplugins
+/fb2kvol
+/mastervol
+/patch
+/rel17
+/testsuite
+/tmp
